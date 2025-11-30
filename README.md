@@ -34,12 +34,16 @@ GAMEJOLT INSTRUCTIONS:
 6. In order to exit, either quit from the main menu, or press ESC while playing to open the menu, then navigate to Other > Quit
 
 UNITY PROJECT INSTRUCTIONS:
-1. Clone the repository using Git:
-```bash git clone https://github.com/AayanNaqvi/JUMPSHOT.git
+1. Clone the repository using Git (Command Below)
 2. Open Unity Hub.
 3. Click Add project → Open project from disk.
 4. Navigate to the folder you just cloned or extracted.
 5. Unity will load the project and import all necessary assets and packages.
+
+
+```bash
+git clone https://github.com/AayanNaqvi/JUMPSHOT.git
+
 
 
 
