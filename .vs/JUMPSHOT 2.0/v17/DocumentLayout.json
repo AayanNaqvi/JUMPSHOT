@@ -1,0 +1,879 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\control\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\control\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\sound effects\\scripts\\editvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\sound effects\\scripts\\editvolume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\healthanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\healthanddamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\gunsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\gunsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\enemybehavior\\scripts\\explodingtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehavior\\scripts\\explodingtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\bartransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\bartransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|c:\\users\\aayan\\unity\\jumpshot 2.0\\assets\\sound effects\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\sound effects\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\gamestartanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\gamestartanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\pointcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\pointcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\starttitleanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\starttitleanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\aimdownsights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\aimdownsights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\settingsquit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\settingsquit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\showfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\showfps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\lightfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\lightfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\flashbanglightfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\flashbanglightfade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\weaponswitching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\weaponswitching.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\buttonsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\uielements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\uielements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\grenadeaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\grenadeaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\enemybehavior\\scripts\\enemhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehavior\\scripts\\enemhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\knifeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\hitmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\hitmarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\damageeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\enemybehavior\\scripts\\targetspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehavior\\scripts\\targetspawning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\enemybehavior\\scripts\\sonarreveal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\enemybehavior\\scripts\\sonarreveal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\keyiconmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\keyiconmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\lockinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\lockinputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\keybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\keybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\buttoncost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\buttoncost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\throwingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\throwingutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\flashbangaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\flashbangaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\playerrecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\playerrecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\smokeaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\smokeaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\smokescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\smokescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\incendiaryaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\incendiaryaddon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\fire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\utilityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\utilityclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\control\\wallrunning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\control\\wallrunning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\control\\sliding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\control\\sliding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\camera\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\blindnesseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\blindnesseffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\utility\\destroyfirehitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\utility\\destroyfirehitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\crosshair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\crosshair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\setkeybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\setkeybinds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\animation\\movearms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\animation\\movearms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\camera\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\camera\\playercam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\camera\\guncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\camera\\guncam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\uiscripts\\getvaluefromdropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\uiscripts\\getvaluefromdropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\movement\\camera\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\movement\\camera\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\assets\\gunplay\\recoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397BC31-110E-BC4B-6C8F-AB3DFC039E36}|Assembly-CSharp.csproj|solutionrelative:assets\\gunplay\\recoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Sound Effects\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Sound Effects\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Sound Effects\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Sound Effects\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T23:30:16.799Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameStartAnim.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\GameStartAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\GameStartAnim.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\GameStartAnim.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\GameStartAnim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:28:31.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthAndDamage.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\HealthAndDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\HealthAndDamage.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\HealthAndDamage.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\HealthAndDamage.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAwwOcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:56:33.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\EnemHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBehavior\\Scripts\\EnemHealth.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\EnemHealth.cs",
+              "RelativeToolTip": "Assets\\EnemyBehavior\\Scripts\\EnemHealth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T22:57:30.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DamageIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\DamageIndicator.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\DamageIndicator.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\DamageIndicator.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\DamageIndicator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:52:46.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\MainMenu.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwCsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:27:45.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BarTransition.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\BarTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\BarTransition.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\BarTransition.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\BarTransition.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T23:16:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HitMarker.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\HitMarker.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\HitMarker.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\HitMarker.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\HitMarker.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:58:33.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GunSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\GunSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\GunSystem.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\GunSystem.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\GunSystem.cs",
+              "ViewState": "AgIAACcBAAAAAAAAAAAQwDIBAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:30:00.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Control\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Movement\\Control\\PlayerMovement.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAD4v54BAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:58:12.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ButtonSound.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\ButtonSound.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\ButtonSound.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\ButtonSound.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\ButtonSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:54:19.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UIElements.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\UIElements.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\UIElements.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\UIElements.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\UIElements.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T17:08:04.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartTitleAnim.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\StartTitleAnim.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\StartTitleAnim.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\StartTitleAnim.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\StartTitleAnim.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T21:07:06.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AimDownSights.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\AimDownSights.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\AimDownSights.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\AimDownSights.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\AimDownSights.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T23:40:18.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditVolume.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Sound Effects\\Scripts\\EditVolume.cs",
+              "RelativeDocumentMoniker": "Assets\\Sound Effects\\Scripts\\EditVolume.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Sound Effects\\Scripts\\EditVolume.cs",
+              "RelativeToolTip": "Assets\\Sound Effects\\Scripts\\EditVolume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:05:20.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShowFPS.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\ShowFPS.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\ShowFPS.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\ShowFPS.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\ShowFPS.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T02:40:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SettingsQuit.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\SettingsQuit.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\SettingsQuit.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\SettingsQuit.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\SettingsQuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T18:36:24.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T14:51:07.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FlashBangLightFade.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\FlashBangLightFade.cs",
+              "RelativeDocumentMoniker": "Assets\\FlashBangLightFade.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\FlashBangLightFade.cs",
+              "RelativeToolTip": "Assets\\FlashBangLightFade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T16:49:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LightFade.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\LightFade.cs",
+              "RelativeDocumentMoniker": "Assets\\LightFade.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\LightFade.cs",
+              "RelativeToolTip": "Assets\\LightFade.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:46:17.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SetKeyBinds.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\SetKeyBinds.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\SetKeyBinds.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\SetKeyBinds.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\SetKeyBinds.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswGAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:55:31.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "KeyIconManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\KeyIconManager.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\KeyIconManager.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\KeyIconManager.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\KeyIconManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T16:15:30.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LockInputs.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\LockInputs.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\LockInputs.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\LockInputs.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\LockInputs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:48:00.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KeyBinds.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\KeyBinds.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\KeyBinds.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\KeyBinds.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\KeyBinds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T15:34:29.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeaponSwitching.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\WeaponSwitching.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\WeaponSwitching.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\WeaponSwitching.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\WeaponSwitching.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAD4v/IAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T19:36:45.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DamageEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\DamageEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\DamageEffect.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\DamageEffect.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\DamageEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T01:41:20.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ButtonCost.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\ButtonCost.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\ButtonCost.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\ButtonCost.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\ButtonCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:14:30.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PointCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\PointCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\PointCollector.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\PointCollector.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\PointCollector.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T23:01:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PlayerRecon.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\PlayerRecon.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\PlayerRecon.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\PlayerRecon.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\PlayerRecon.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:03:19.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SonarReveal.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\SonarReveal.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBehavior\\Scripts\\SonarReveal.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\SonarReveal.cs",
+              "RelativeToolTip": "Assets\\EnemyBehavior\\Scripts\\SonarReveal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:01:17.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DestroyFireHitbox.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\DestroyFireHitbox.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\DestroyFireHitbox.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\DestroyFireHitbox.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\DestroyFireHitbox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T19:26:44.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GrenadeAddon.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\GrenadeAddon.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\GrenadeAddon.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\GrenadeAddon.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\GrenadeAddon.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwIgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:26:48.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TargetSpawning.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\TargetSpawning.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBehavior\\Scripts\\TargetSpawning.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\TargetSpawning.cs",
+              "RelativeToolTip": "Assets\\EnemyBehavior\\Scripts\\TargetSpawning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:32:10.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExplodingTarget.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\ExplodingTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyBehavior\\Scripts\\ExplodingTarget.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\EnemyBehavior\\Scripts\\ExplodingTarget.cs",
+              "RelativeToolTip": "Assets\\EnemyBehavior\\Scripts\\ExplodingTarget.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T23:46:37.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KnifeAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\KnifeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\KnifeAttack.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\KnifeAttack.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\KnifeAttack.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwG4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T21:31:43.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UtilityClass.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\UtilityClass.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\UtilityClass.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\UtilityClass.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\UtilityClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T23:32:31.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Fire.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\Fire.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\Fire.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\Fire.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\Fire.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T22:01:07.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IncendiaryAddon.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\IncendiaryAddon.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\IncendiaryAddon.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\IncendiaryAddon.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\IncendiaryAddon.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T18:28:53.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ThrowingUtil.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\ThrowingUtil.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\ThrowingUtil.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\ThrowingUtil.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\ThrowingUtil.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwv14AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T18:37:04.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "MoveArms.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Animation\\MoveArms.cs",
+              "RelativeDocumentMoniker": "Assets\\Animation\\MoveArms.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Animation\\MoveArms.cs",
+              "RelativeToolTip": "Assets\\Animation\\MoveArms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T19:11:22.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "GetValueFromDropDown.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\GetValueFromDropDown.cs",
+              "RelativeDocumentMoniker": "Assets\\UIScripts\\GetValueFromDropDown.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\UIScripts\\GetValueFromDropDown.cs",
+              "RelativeToolTip": "Assets\\UIScripts\\GetValueFromDropDown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T01:04:13.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlashBangAddon.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\FlashBangAddon.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\FlashBangAddon.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\FlashBangAddon.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\FlashBangAddon.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T02:22:52.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BlindnessEffect.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\BlindnessEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\BlindnessEffect.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\BlindnessEffect.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\BlindnessEffect.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:44:20.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "smokeScript.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\smokeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\smokeScript.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\smokeScript.cs",
+              "RelativeToolTip": "Assets\\smokeScript.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T23:32:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SmokeAddon.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\SmokeAddon.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Utility\\SmokeAddon.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Utility\\SmokeAddon.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Utility\\SmokeAddon.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:17:31.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MoveCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\MoveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Camera\\MoveCamera.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\MoveCamera.cs",
+              "RelativeToolTip": "Assets\\Movement\\Camera\\MoveCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:57:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GunCam.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\GunCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Camera\\GunCam.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\GunCam.cs",
+              "RelativeToolTip": "Assets\\Movement\\Camera\\GunCam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:43:55.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Crosshair.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Crosshair.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Crosshair.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Crosshair.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Crosshair.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T19:18:03.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Wallrunning.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\Wallrunning.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Control\\Wallrunning.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\Wallrunning.cs",
+              "RelativeToolTip": "Assets\\Movement\\Control\\Wallrunning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T00:22:58.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CameraShake.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\CameraShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Camera\\CameraShake.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\CameraShake.cs",
+              "RelativeToolTip": "Assets\\Movement\\Camera\\CameraShake.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T17:00:26.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Sliding.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\Sliding.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Control\\Sliding.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Control\\Sliding.cs",
+              "RelativeToolTip": "Assets\\Movement\\Control\\Sliding.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T23:36:37.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PlayerCam.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\PlayerCam.cs",
+              "RelativeDocumentMoniker": "Assets\\Movement\\Camera\\PlayerCam.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\Movement\\Camera\\PlayerCam.cs",
+              "RelativeToolTip": "Assets\\Movement\\Camera\\PlayerCam.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwDIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:57:37.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Recoil.cs",
+              "DocumentMoniker": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Recoil.cs",
+              "RelativeDocumentMoniker": "Assets\\GunPlay\\Recoil.cs",
+              "ToolTip": "C:\\Users\\Aayan\\UNITY\\JUMPSHOT 2.0\\Assets\\GunPlay\\Recoil.cs",
+              "RelativeToolTip": "Assets\\GunPlay\\Recoil.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwDMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T18:40:00.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
